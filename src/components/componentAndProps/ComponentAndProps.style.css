@@ -1,0 +1,7 @@
+.componentAndProps-container {
+    text-align: center;
+}
+
+.componentAndProps-container .componentAndProps-content {
+    text-align: left;
+}

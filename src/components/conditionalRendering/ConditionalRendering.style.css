@@ -1,0 +1,7 @@
+.ConditionalRendering-container {
+    text-align: center;
+}
+
+.ConditionalRendering-container .ConditionalRendering-content {
+    text-align: left;
+}
